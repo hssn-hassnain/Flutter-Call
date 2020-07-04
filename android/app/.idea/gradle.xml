@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/call_log-2.1.0/android" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/contacts_service-0.3.10/android" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.8/android" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sms-2.0.1+2/android" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-4.0.1/android" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.5.4+3/android" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth-0.6.2+3/android" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.11/android" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-0.0.1+1/android" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+3/android" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-4.4.0+hotfix.4/android" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/pit_sms_call_log-0.1.3/android" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.7+3/android" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-0.0.1+10/android" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+7/android" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/sms-0.2.4/android" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-1.3.1/android" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.4.11/android" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-0.0.1+7/android" />
+            <option value="C:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-0.1.1+6/android" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

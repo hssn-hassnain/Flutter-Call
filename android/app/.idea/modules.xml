@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../android.iml" filepath="$PROJECT_DIR$/../android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/app.iml" filepath="$PROJECT_DIR$/app.iml" group="android/app" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/call_log-2.1.0/android/call_log.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/call_log-2.1.0/android/call_log.iml" group="android/call_log" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/contacts_service-0.3.10/android/contacts_service.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/contacts_service-0.3.10/android/contacts_service.iml" group="android/contacts_service" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.8/android/flutter_plugin_android_lifecycle.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.8/android/flutter_plugin_android_lifecycle.iml" group="android/flutter_plugin_android_lifecycle" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sms-2.0.1+2/android/flutter_sms.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sms-2.0.1+2/android/flutter_sms.iml" group="android/flutter_sms" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-4.0.1/android/fluttertoast.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-4.0.1/android/fluttertoast.iml" group="android/fluttertoast" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.5.4+3/android/image_picker.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.5.4+3/android/image_picker.iml" group="android/image_picker" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth-0.6.2+3/android/local_auth.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth-0.6.2+3/android/local_auth.iml" group="android/local_auth" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.11/android/path_provider.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.11/android/path_provider.iml" group="android/path_provider" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-0.0.1+1/android/path_provider_linux.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-0.0.1+1/android/path_provider_linux.iml" group="android/path_provider_linux" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+3/android/path_provider_macos.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+3/android/path_provider_macos.iml" group="android/path_provider_macos" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-4.4.0+hotfix.4/android/permission_handler.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-4.4.0+hotfix.4/android/permission_handler.iml" group="android/permission_handler" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/pit_sms_call_log-0.1.3/android/pit_sms_call_log.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/pit_sms_call_log-0.1.3/android/pit_sms_call_log.iml" group="android/pit_sms_call_log" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.7+3/android/shared_preferences.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.7+3/android/shared_preferences.iml" group="android/shared_preferences" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-0.0.1+10/android/shared_preferences_macos.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-0.0.1+10/android/shared_preferences_macos.iml" group="android/shared_preferences_macos" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+7/android/shared_preferences_web.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+7/android/shared_preferences_web.iml" group="android/shared_preferences_web" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/sms-0.2.4/android/sms.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/sms-0.2.4/android/sms.iml" group="android/sms" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-1.3.1/android/sqflite.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-1.3.1/android/sqflite.iml" group="android/sqflite" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.4.11/android/url_launcher.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.4.11/android/url_launcher.iml" group="android/url_launcher" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-0.0.1+7/android/url_launcher_macos.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-0.0.1+7/android/url_launcher_macos.iml" group="android/url_launcher_macos" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-0.1.1+6/android/url_launcher_web.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-0.1.1+6/android/url_launcher_web.iml" group="android/url_launcher_web" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,267 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.FlutterCall"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" > <!-- package="flutter.plugins.contactsservice.contactsservice"> -->
+6    <uses-sdk
+7        android:minSdkVersion="23"
+7-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml
+8        android:targetSdkVersion="28" />
+8-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml
+9
+10    <uses-permission android:name="android.permission.READ_CONTACTS" />
+10-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:3:5-72
+10-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:3:22-69
+11    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+11-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:4:1-69
+11-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:4:18-66
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:5:3-64
+12-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:5:20-62
+13    <uses-permission android:name="android.permission.READ_CALL_LOG" />
+13-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:6:3-69
+13-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:6:20-67
+14    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+14-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:7:3-73
+14-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:7:20-70
+15    <uses-permission android:name="android.permission.READ_SMS" />
+15-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:8:3-64
+15-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:8:20-62
+16    <uses-permission android:name="android.permission.READ_CALL_LOG" />
+16-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:6:3-69
+16-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:6:20-67
+17    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+17-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:10:5-73
+17-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:10:22-71
+18    <uses-permission android:name="android.permission.SEND_SMS" />
+18-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:11:5-66
+18-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:11:22-64
+19    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+19-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:12:5-69
+19-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:12:22-67
+20    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+20-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:7:3-73
+20-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:7:20-70
+21    <uses-permission android:name="android.permission.READ_PROFILE" />
+21-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:14:5-71
+21-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:14:22-68
+22    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+22-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:15:5-78
+22-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:15:22-76
+23    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+23-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:16:5-80
+23-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:16:22-78
+24    <uses-permission android:name="android.permission.CALL_PHONE" />
+24-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:17:5-69
+24-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:17:22-66
+25    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+25-->[:image_picker] C:\Users\Asus\Desktop\Flutter-Call\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
+25-->[:image_picker] C:\Users\Asus\Desktop\Flutter-Call\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-77
+26    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+26-->[:image_picker] C:\Users\Asus\Desktop\Flutter-Call\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-81
+26-->[:image_picker] C:\Users\Asus\Desktop\Flutter-Call\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-78
+27    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+27-->[androidx.biometric:biometric:1.0.0-beta01] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\77ac337a2fe3080a63e8b9bb45988212\biometric-1.0.0-beta01\AndroidManifest.xml:24:5-72
+27-->[androidx.biometric:biometric:1.0.0-beta01] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\77ac337a2fe3080a63e8b9bb45988212\biometric-1.0.0-beta01\AndroidManifest.xml:24:22-69
+28
+29    <application
+29-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:20:5-107:19
+30        android:name="io.flutter.app.FlutterApplication"
+30-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:21:9-57
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.1.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\805e05a71e209033ab91722f2d3217f8\core-1.1.0\AndroidManifest.xml:24:18-86
+32        android:debuggable="true"
+33        android:extractNativeLibs="false"
+34        android:icon="@mipmap/ic_launcher"
+34-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:23:9-43
+35        android:label="privacy"
+35-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:22:9-32
+36        android:theme="@style/Theme.AppCompat.Light" >
+36-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:24:9-53
+37        <activity
+37-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:25:9-64:20
+38            android:name="com.example.privacy.MainActivity"
+38-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:26:13-41
+39            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+39-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:27:13-163
+40            android:hardwareAccelerated="true"
+40-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:28:13-47
+41            android:launchMode="singleTop"
+41-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:29:13-43
+42            android:windowSoftInputMode="adjustResize" >
+42-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:30:13-55
+43
+44            <!--
+45                 Specifies an Android theme to apply to this Activity as soon as
+46                 the Android process has started. This theme is visible to the user
+47                 while the Flutter UI initializes. After that, this theme continues
+48                 to determine the Window background behind the Flutt    er UI.
+49            -->
+50            <meta-data
+50-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:36:13-39:17
+51                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+51-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:37:15-79
+52                android:resource="@drawable/launch_background" />
+52-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:38:15-61
+53            <meta-data
+53-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:40:12-42:40
+54                android:name="io.flutter.app.android.SplashScreenUntilFirstFrame"
+54-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:41:17-82
+55                android:value="true" />
+55-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:42:17-37
+56            <!--
+57                 Displays an Android View that continues showing the launch screen
+58                 Drawable until Flutter paints its first frame, then this splash
+59                 screen fades out. A splash screen is useful to avoid any visual
+60                 gap between the end of Android's launch screen and the painting of
+61                 Flutter's first frame.
+62            -->
+63            <intent-filter>
+63-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:48:13-51:29
+64                <action android:name="android.intent.action.MAIN" />
+64-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:49:17-69
+64-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:49:25-66
+65
+66                <category android:name="android.intent.category.LAUNCHER" />
+66-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:50:17-77
+66-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:50:27-74
+67            </intent-filter>
+68            <intent-filter>
+68-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:53:13-62:29
+69
+70                <!-- Handle links from other applications -->
+71                <action android:name="android.intent.action.VIEW" />
+71-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:55:17-69
+71-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:55:25-66
+72                <action android:name="android.intent.action.DIAL" />
+72-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:56:17-69
+72-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:56:25-66
+73                <!-- Populate the system chooser -->
+74                <category android:name="android.intent.category.DEFAULT" />
+74-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:58:17-76
+74-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:58:27-73
+75                <!-- Handle links in browsers -->
+76                <category android:name="android.intent.category.BROWSABLE" />
+76-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:60:17-78
+76-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:60:27-75
+77
+78                <data android:scheme="tel" />
+78-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:61:17-46
+78-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:61:23-43
+79            </intent-filter>
+80        </activity>
+81        <activity android:name="com.example.privacy.TDNS.AddContactActivity" />
+81-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:65:9-80
+81-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:65:19-77
+82        <activity
+82-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:67:9-86:20
+83            android:name="com.example.privacy.DialerActivity"
+83-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:68:13-62
+84            android:windowSoftInputMode="stateAlwaysVisible|adjustResize" >
+84-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:69:13-74
+85            <intent-filter>
+85-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:53:13-62:29
+86
+87                <!-- Handle links from other applications -->
+88                <action android:name="android.intent.action.VIEW" />
+88-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:55:17-69
+88-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:55:25-66
+89                <action android:name="android.intent.action.DIAL" />
+89-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:56:17-69
+89-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:56:25-66
+90                <!-- Populate the system chooser -->
+91                <category android:name="android.intent.category.DEFAULT" />
+91-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:58:17-76
+91-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:58:27-73
+92                <!-- Handle links in browsers -->
+93                <category android:name="android.intent.category.BROWSABLE" />
+93-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:60:17-78
+93-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:60:27-75
+94
+95                <data android:scheme="tel" />
+95-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:61:17-46
+95-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:61:23-43
+96            </intent-filter>
+97            <intent-filter>
+97-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:82:13-85:29
+98                <action android:name="android.intent.action.DIAL" />
+98-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:56:17-69
+98-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:56:25-66
+99
+100                <category android:name="android.intent.category.DEFAULT" />
+100-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:58:17-76
+100-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:58:27-73
+101            </intent-filter>
+102        </activity>
+103
+104        <service
+104-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:89:9-98:19
+105            android:name="com.example.privacy.Call.CallService"
+105-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:90:13-64
+106            android:permission="android.permission.BIND_INCALL_SERVICE" >
+106-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:91:13-72
+107            <meta-data
+107-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:92:13-94:40
+108                android:name="android.telecom.IN_CALL_SERVICE_UI"
+108-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:93:17-66
+109                android:value="true" />
+109-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:94:17-37
+110
+111            <intent-filter>
+111-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:95:13-97:29
+112                <action android:name="android.telecom.InCallService" />
+112-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:96:17-72
+112-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:96:25-69
+113            </intent-filter>
+114        </service>
+115
+116        <activity android:name="com.example.privacy.Call.CallActivity" />
+116-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:100:9-101:67
+116-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:101:13-65
+117        <!--
+118             Don't delete the meta-data below.
+119             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+120        -->
+121        <meta-data
+121-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:104:9-106:33
+122            android:name="flutterEmbedding"
+122-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:105:13-44
+123            android:value="2" />
+123-->C:\Users\Asus\Desktop\Flutter-Call\android\app\src\main\AndroidManifest.xml:106:13-30
+124
+125        <activity
+125-->[:url_launcher] C:\Users\Asus\Desktop\Flutter-Call\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
+126            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+126-->[:url_launcher] C:\Users\Asus\Desktop\Flutter-Call\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
+127            android:exported="false"
+127-->[:url_launcher] C:\Users\Asus\Desktop\Flutter-Call\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
+128            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+128-->[:url_launcher] C:\Users\Asus\Desktop\Flutter-Call\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
+129
+130        <provider
+130-->[:image_picker] C:\Users\Asus\Desktop\Flutter-Call\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-19:20
+131            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
+131-->[:image_picker] C:\Users\Asus\Desktop\Flutter-Call\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-82
+132            android:authorities="com.example.FlutterCall.flutter.image_provider"
+132-->[:image_picker] C:\Users\Asus\Desktop\Flutter-Call\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-74
+133            android:exported="false"
+133-->[:image_picker] C:\Users\Asus\Desktop\Flutter-Call\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+134            android:grantUriPermissions="true" >
+134-->[:image_picker] C:\Users\Asus\Desktop\Flutter-Call\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-47
+135            <meta-data
+135-->[:image_picker] C:\Users\Asus\Desktop\Flutter-Call\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:75
+136                android:name="android.support.FILE_PROVIDER_PATHS"
+136-->[:image_picker] C:\Users\Asus\Desktop\Flutter-Call\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-67
+137                android:resource="@xml/flutter_image_picker_file_paths" />
+137-->[:image_picker] C:\Users\Asus\Desktop\Flutter-Call\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-72
+138        </provider>
+139
+140        <activity
+140-->[androidx.biometric:biometric:1.0.0-beta01] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\77ac337a2fe3080a63e8b9bb45988212\biometric-1.0.0-beta01\AndroidManifest.xml:28:9-30:67
+141            android:name="androidx.biometric.DeviceCredentialHandlerActivity"
+141-->[androidx.biometric:biometric:1.0.0-beta01] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\77ac337a2fe3080a63e8b9bb45988212\biometric-1.0.0-beta01\AndroidManifest.xml:29:13-78
+142            android:theme="@style/DeviceCredentialHandlerTheme" />
+142-->[androidx.biometric:biometric:1.0.0-beta01] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\77ac337a2fe3080a63e8b9bb45988212\biometric-1.0.0-beta01\AndroidManifest.xml:30:13-64
+143    </application>
+144
+145</manifest>

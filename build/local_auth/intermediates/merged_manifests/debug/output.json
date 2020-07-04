@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "applicationId": "io.flutter.plugins.localauth",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": -1,
+        "outputFile": "local_auth-debug.aar",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "../../library_manifest/debug/AndroidManifest.xml",
+      "properties": {
+        "packageId": "io.flutter.plugins.localauth",
+        "split": ""
+      }
+    }
+  ]
+}
